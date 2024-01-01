@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Transaction Valid with 2 item",
+        "login": {
+            "username": "standard_user",
+            "password": "secret_sauce"
+        },
+        "products": ["Sauce Labs Onesie", "Sauce Labs Bike Light"],
+        "detailData": {
+            "firstName": "Ilham",
+            "lastName": "Oktavian",
+            "postCode": "14240"
+        },
+        "messageSuccess": "Thank you for your order!"
+    },
+    {
+        "title": "Transaction Valid with 3 item",
+        "login": {
+            "username": "standard_user",
+            "password": "secret_sauce"
+        },
+        "products": ["Sauce Labs Onesie", "Sauce Labs Bike Light", "Sauce Labs Bolt T-Shirt"],
+        "detailData": {
+            "firstName": "Ilham",
+            "lastName": "Oktavian",
+            "postCode": "14240"
+        },
+        "messageSuccess": "Thank you for your order!"
+    },
+    {
+        "title": "Transaction Valid with 4 item",
+        "login": {
+            "username": "standard_user",
+            "password": "secret_sauce"
+        },
+        "products": ["Sauce Labs Onesie", "Sauce Labs Bike Light", "Sauce Labs Bolt T-Shirt", "Sauce Labs Backpack"],
+        "detailData": {
+            "firstName": "Ilham",
+            "lastName": "Oktavian",
+            "postCode": "14240"
+        },
+        "messageSuccess": "Thank you for your order!"
+    }
+]
