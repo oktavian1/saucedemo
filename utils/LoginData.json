@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Testing Username & Password Empty",
+    "login": {
+      "username": "",
+      "password": ""
+    },
+    "message": "Epic sadface: Username is required"
+  },
+  {
+    "title": "Testing Username Empty",
+    "login": {
+      "username": "",
+      "password": "secret_sauce"
+    },
+    "message": "Epic sadface: Username is required"
+  },
+  {
+    "title": "Testing Password Empty",
+    "login": {
+      "username": "standard_user",
+      "password": ""
+    },
+    "message": "Epic sadface: Password is required"
+  },
+  {
+    "title": "Testing Block User",
+    "login": {
+      "username": "locked_out_user",
+      "password": "secret_sauce"
+    },
+    "message": "this user has been locked out"
+  }
+]

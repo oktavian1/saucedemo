@@ -1,0 +1,58 @@
+{
+  "uid" : "99be3bf806b12204",
+  "name" : "Testing Filter Using ZA",
+  "fullName" : "filterProduct.spec.js#Testing Filter Using ZA",
+  "historyId" : "5b3be37481c729eab86f66a1d003342e:5bd835b0d6b1d4ada3b9f0db936e82c8",
+  "time" : {
+    "start" : 1720706338723,
+    "stop" : 1720706338723,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "This test was skipped due to test setup error. Check you setup scripts to fix the issue.",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JavaScript"
+  }, {
+    "name" : "framework",
+    "value" : "Playwright"
+  }, {
+    "name" : "titlePath",
+    "value" : " > chromium > filterProduct.spec.js"
+  }, {
+    "name" : "ALLURE_ID",
+    "value" : "-1"
+  }, {
+    "name" : "host",
+    "value" : "ADV-110819-NB"
+  }, {
+    "name" : "thread",
+    "value" : "ADV-110819-NB-72424-playwright-worker-0"
+  }, {
+    "name" : "parentSuite",
+    "value" : "chromium"
+  }, {
+    "name" : "suite",
+    "value" : "filterProduct.spec.js"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "Project",
+    "value" : "chromium"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "99be3bf806b12204.json",
+  "parameterValues" : [ "chromium" ]
+}
