@@ -2,7 +2,21 @@
   "devDependencies": {
     "@playwright/test": "^1.40.1",
     "@types/node": "^20.10.5",
-    "allure-playwright": "^2.10.0"
+    "allure-playwright": "^2.15.1"
   },
-  "scripts": {}
+  "scripts": {
+    "running-testall-with-allure-report": "npx playwright test --reporter=allure-playwright",
+    "running-testall-with-html-report": "npx playwright test --reporter=html",
+    "running-debug": "npx playwright test --debug",
+    "running-ui": "npx playwright test --ui",
+    "running-login-with-html-report": "npx playwright test tests/login.spec.js --reporter=html",
+    "running-filter-with-html-report": "npx playwright test tests/filterProduct.spec.js --reporter=html",
+    "running-e2e-with-html-report": "npx playwright test tests/e2e.spec.js --reporter=html",
+    "running-login-with-allure-report": "npx playwright test tests/login.spec.js --reporter=allure-playwright",
+    "running-filter-with-allure-report": "npx playwright test tests/login.spec.js --reporter=allure-playwright",
+    "running-e2e-with-allure-report": "npx playwright test tests/login.spec.js --reporter=allure-playwright",
+    "show-report-html": "npx playwright show-report",
+    "generate-allure-result": "allure generate allure-results -o allure-report --clean",
+    "open-allure": "allure open allure-report"
+  }
 }

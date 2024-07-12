@@ -1,0 +1,1882 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "ADV-110819-NB",
+    "children" : [ {
+      "name" : "ADV-110819-NB-91924-playwright-worker-5",
+      "children" : [ {
+        "name" : "Testing Filter Using AZ",
+        "uid" : "cae7d954d48f8677",
+        "parentUid" : "ff020de4ecc61a4611ecdccda6325b84",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708118466,
+          "stop" : 1720708128519,
+          "duration" : 10053
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Microsoft Edge" ]
+      }, {
+        "name" : "Testing Username Empty",
+        "uid" : "4fc8c71d86584993",
+        "parentUid" : "ff020de4ecc61a4611ecdccda6325b84",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708076947,
+          "stop" : 1720708078759,
+          "duration" : 1812
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "Testing Filter Using lohi",
+        "uid" : "9ac824d25042aac",
+        "parentUid" : "ff020de4ecc61a4611ecdccda6325b84",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708105601,
+          "stop" : 1720708111402,
+          "duration" : 5801
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "webkit" ]
+      }, {
+        "name" : "Testing Filter Using lohi",
+        "uid" : "3f9aaf8412637b17",
+        "parentUid" : "ff020de4ecc61a4611ecdccda6325b84",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708048836,
+          "stop" : 1720708073268,
+          "duration" : 24432
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "Testing Filter Using hilo",
+        "uid" : "be17d7c91a2909e",
+        "parentUid" : "ff020de4ecc61a4611ecdccda6325b84",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708037199,
+          "stop" : 1720708043401,
+          "duration" : 6202
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Testing Filter Using lohi",
+        "uid" : "ddb1a2c74af57253",
+        "parentUid" : "ff020de4ecc61a4611ecdccda6325b84",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708024725,
+          "stop" : 1720708037072,
+          "duration" : 12347
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "@WEB Test Transaction Valid with 3 item",
+        "uid" : "4a359612d3c961ec",
+        "parentUid" : "ff020de4ecc61a4611ecdccda6325b84",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708139881,
+          "stop" : 1720708151644,
+          "duration" : 11763
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Google Chrome" ]
+      }, {
+        "name" : "Testing Block User",
+        "uid" : "e6b9f3766ab1cdc4",
+        "parentUid" : "ff020de4ecc61a4611ecdccda6325b84",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708043428,
+          "stop" : 1720708045760,
+          "duration" : 2332
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Testing Password Empty",
+        "uid" : "cc33271fcb2f8a0b",
+        "parentUid" : "ff020de4ecc61a4611ecdccda6325b84",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708111429,
+          "stop" : 1720708115677,
+          "duration" : 4248
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "webkit" ]
+      }, {
+        "name" : "@WEB Test Transaction Valid with 3 item",
+        "uid" : "163d07b888e52d8",
+        "parentUid" : "ff020de4ecc61a4611ecdccda6325b84",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708084025,
+          "stop" : 1720708105571,
+          "duration" : 21546
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "webkit" ]
+      }, {
+        "name" : "Testing Block User",
+        "uid" : "beb8789a6f4f3f6c",
+        "parentUid" : "ff020de4ecc61a4611ecdccda6325b84",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708078767,
+          "stop" : 1720708080590,
+          "duration" : 1823
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "Testing Username Empty",
+        "uid" : "89e844d1be475a0d",
+        "parentUid" : "ff020de4ecc61a4611ecdccda6325b84",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708128611,
+          "stop" : 1720708134349,
+          "duration" : 5738
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Microsoft Edge" ]
+      }, {
+        "name" : "Testing Filter Using hilo",
+        "uid" : "d5135b8e1cde9eda",
+        "parentUid" : "ff020de4ecc61a4611ecdccda6325b84",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708073281,
+          "stop" : 1720708076925,
+          "duration" : 3644
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "firefox" ]
+      } ],
+      "uid" : "ff020de4ecc61a4611ecdccda6325b84"
+    }, {
+      "name" : "ADV-110819-NB-91924-playwright-worker-2",
+      "children" : [ {
+        "name" : "Testing Password Empty",
+        "uid" : "720406e47c8b178b",
+        "parentUid" : "8c3dded2e5855ae79659efe16bbe3b8c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708149748,
+          "stop" : 1720708152361,
+          "duration" : 2613
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Google Chrome" ]
+      }, {
+        "name" : "Testing Filter Using ZA",
+        "uid" : "77a9de72c7bb7dd2",
+        "parentUid" : "8c3dded2e5855ae79659efe16bbe3b8c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708047952,
+          "stop" : 1720708077716,
+          "duration" : 29764
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "@WEB Test Transaction Valid with 4 item",
+        "uid" : "c5568df76dbfc86f",
+        "parentUid" : "8c3dded2e5855ae79659efe16bbe3b8c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708087214,
+          "stop" : 1720708109746,
+          "duration" : 22532
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "webkit" ]
+      }, {
+        "name" : "@WEB Test Transaction Valid with 4 item",
+        "uid" : "43b908f6de018b5d",
+        "parentUid" : "8c3dded2e5855ae79659efe16bbe3b8c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708024559,
+          "stop" : 1720708040839,
+          "duration" : 16280
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Testing Password Empty",
+        "uid" : "e68772608eec547",
+        "parentUid" : "8c3dded2e5855ae79659efe16bbe3b8c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708077744,
+          "stop" : 1720708081638,
+          "duration" : 3894
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "Testing Username Empty",
+        "uid" : "94bc33a4835549ac",
+        "parentUid" : "8c3dded2e5855ae79659efe16bbe3b8c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708040909,
+          "stop" : 1720708045503,
+          "duration" : 4594
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "@WEB Test Transaction Valid with 3 item",
+        "uid" : "c8386a30cd0b8023",
+        "parentUid" : "8c3dded2e5855ae79659efe16bbe3b8c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708116510,
+          "stop" : 1720708125711,
+          "duration" : 9201
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Microsoft Edge" ]
+      }, {
+        "name" : "Testing Username Empty",
+        "uid" : "2b31a1240fb938d0",
+        "parentUid" : "8c3dded2e5855ae79659efe16bbe3b8c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708109775,
+          "stop" : 1720708114223,
+          "duration" : 4448
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "webkit" ]
+      }, {
+        "name" : "@WEB Test Transaction Valid with 4 item",
+        "uid" : "5765650e2dd37e4a",
+        "parentUid" : "8c3dded2e5855ae79659efe16bbe3b8c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708139986,
+          "stop" : 1720708149709,
+          "duration" : 9723
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Google Chrome" ]
+      }, {
+        "name" : "Testing Username & Password Empty",
+        "uid" : "59d18b7bb14e3f67",
+        "parentUid" : "8c3dded2e5855ae79659efe16bbe3b8c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708125741,
+          "stop" : 1720708134563,
+          "duration" : 8822
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Microsoft Edge" ]
+      } ],
+      "uid" : "8c3dded2e5855ae79659efe16bbe3b8c"
+    }, {
+      "name" : "ADV-110819-NB-42148-playwright-worker-2",
+      "children" : [ {
+        "name" : "@WEB Test Transaction Valid with 3 item",
+        "uid" : "b1571fa7b1373554",
+        "parentUid" : "2be73fa59576e0c565605f6926e133fd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707861256,
+          "stop" : 1720707869573,
+          "duration" : 8317
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Google Chrome" ]
+      }, {
+        "name" : "Testing Username Empty",
+        "uid" : "a02f9d7f411f7ae",
+        "parentUid" : "2be73fa59576e0c565605f6926e133fd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707853461,
+          "stop" : 1720707858296,
+          "duration" : 4835
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Microsoft Edge" ]
+      }, {
+        "name" : "@WEB Test Transaction Valid with 4 item",
+        "uid" : "227ae15c2f463ef3",
+        "parentUid" : "2be73fa59576e0c565605f6926e133fd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707816023,
+          "stop" : 1720707832775,
+          "duration" : 16752
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "webkit" ]
+      }, {
+        "name" : "Testing Password Empty",
+        "uid" : "dbc8ecc331eeb5dc",
+        "parentUid" : "2be73fa59576e0c565605f6926e133fd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707832813,
+          "stop" : 1720707837942,
+          "duration" : 5129
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "webkit" ]
+      }, {
+        "name" : "@WEB Test Transaction Valid with 3 item",
+        "uid" : "4ab60e995b1652d9",
+        "parentUid" : "2be73fa59576e0c565605f6926e133fd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707839989,
+          "stop" : 1720707853436,
+          "duration" : 13447
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Microsoft Edge" ]
+      }, {
+        "name" : "Testing Username Empty",
+        "uid" : "bd0a3837f7a465cc",
+        "parentUid" : "2be73fa59576e0c565605f6926e133fd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707869672,
+          "stop" : 1720707872581,
+          "duration" : 2909
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Google Chrome" ]
+      }, {
+        "name" : "Testing Filter Using ZA",
+        "uid" : "5efeb4db6842b6aa",
+        "parentUid" : "2be73fa59576e0c565605f6926e133fd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707750090,
+          "stop" : 1720707783342,
+          "duration" : 33252
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "Testing Block User",
+        "uid" : "ce27c98226e2378b",
+        "parentUid" : "2be73fa59576e0c565605f6926e133fd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707743953,
+          "stop" : 1720707746889,
+          "duration" : 2936
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "@WEB Test Transaction Valid with 4 item",
+        "uid" : "6b16e83c130f731e",
+        "parentUid" : "2be73fa59576e0c565605f6926e133fd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707726031,
+          "stop" : 1720707741274,
+          "duration" : 15243
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Testing Username & Password Empty",
+        "uid" : "b6c705e6fb4e99f4",
+        "parentUid" : "2be73fa59576e0c565605f6926e133fd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707741316,
+          "stop" : 1720707743879,
+          "duration" : 2563
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Testing Filter Using hilo",
+        "uid" : "c7674aa6d6676bfb",
+        "parentUid" : "2be73fa59576e0c565605f6926e133fd",
+        "status" : "broken",
+        "time" : {
+          "start" : 1720707783352,
+          "stop" : 1720707814649,
+          "duration" : 31297
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "firefox" ]
+      } ],
+      "uid" : "2be73fa59576e0c565605f6926e133fd"
+    }, {
+      "name" : "ADV-110819-NB-91924-playwright-worker-3",
+      "children" : [ {
+        "name" : "@WEB Test Transaction Valid with 2 item",
+        "uid" : "bd5104ae1c9285cd",
+        "parentUid" : "e26a63784e44b61191a7de8c17d40a88",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708082258,
+          "stop" : 1720708112113,
+          "duration" : 29855
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "webkit" ]
+      }, {
+        "name" : "Testing Username & Password Empty",
+        "uid" : "e6fa92055d659f61",
+        "parentUid" : "e26a63784e44b61191a7de8c17d40a88",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708147603,
+          "stop" : 1720708150896,
+          "duration" : 3293
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Google Chrome" ]
+      }, {
+        "name" : "Testing Username & Password Empty",
+        "uid" : "10d020e52d6123c5",
+        "parentUid" : "e26a63784e44b61191a7de8c17d40a88",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708074266,
+          "stop" : 1720708079051,
+          "duration" : 4785
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "Testing Block User",
+        "uid" : "a6a222e5d63c52ae",
+        "parentUid" : "e26a63784e44b61191a7de8c17d40a88",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708112153,
+          "stop" : 1720708116145,
+          "duration" : 3992
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "webkit" ]
+      }, {
+        "name" : "Testing Filter Using AZ",
+        "uid" : "3980cb3dd9c8ea6b",
+        "parentUid" : "e26a63784e44b61191a7de8c17d40a88",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708048332,
+          "stop" : 1720708074244,
+          "duration" : 25912
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "Testing Filter Using lohi",
+        "uid" : "435ed09e9b80db3b",
+        "parentUid" : "e26a63784e44b61191a7de8c17d40a88",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708140571,
+          "stop" : 1720708147578,
+          "duration" : 7007
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Google Chrome" ]
+      }, {
+        "name" : "Testing Password Empty",
+        "uid" : "7681e155291f7ea2",
+        "parentUid" : "e26a63784e44b61191a7de8c17d40a88",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708130981,
+          "stop" : 1720708137782,
+          "duration" : 6801
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Microsoft Edge" ]
+      }, {
+        "name" : "Testing Filter Using AZ",
+        "uid" : "9c2f7306c55cff47",
+        "parentUid" : "e26a63784e44b61191a7de8c17d40a88",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708024612,
+          "stop" : 1720708041726,
+          "duration" : 17114
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Testing Filter Using ZA",
+        "uid" : "c0d84e586307a328",
+        "parentUid" : "e26a63784e44b61191a7de8c17d40a88",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708121041,
+          "stop" : 1720708130941,
+          "duration" : 9900
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Microsoft Edge" ]
+      }, {
+        "name" : "Testing Password Empty",
+        "uid" : "220faf5929bb237d",
+        "parentUid" : "e26a63784e44b61191a7de8c17d40a88",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708041761,
+          "stop" : 1720708045338,
+          "duration" : 3577
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      } ],
+      "uid" : "e26a63784e44b61191a7de8c17d40a88"
+    }, {
+      "name" : "ADV-110819-NB-72424-playwright-worker-0",
+      "children" : [ {
+        "name" : "Testing Filter Using ZA",
+        "uid" : "99be3bf806b12204",
+        "parentUid" : "7431faf86e76b2588a85f4e610a2c574",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1720706338723,
+          "stop" : 1720706338723,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "@WEB Test Transaction Valid with 2 item",
+        "uid" : "1ce588217658c98a",
+        "parentUid" : "7431faf86e76b2588a85f4e610a2c574",
+        "status" : "failed",
+        "time" : {
+          "start" : 1720706315636,
+          "stop" : 1720706338604,
+          "duration" : 22968
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Testing Filter Using lohi",
+        "uid" : "1d06d9467451640c",
+        "parentUid" : "7431faf86e76b2588a85f4e610a2c574",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1720706338727,
+          "stop" : 1720706338727,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Testing Filter Using AZ",
+        "uid" : "53498ed345175766",
+        "parentUid" : "7431faf86e76b2588a85f4e610a2c574",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1720706338717,
+          "stop" : 1720706338719,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Testing Username & Password Empty",
+        "uid" : "1e383971545f8aeb",
+        "parentUid" : "7431faf86e76b2588a85f4e610a2c574",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1720706338735,
+          "stop" : 1720706338735,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Testing Block User",
+        "uid" : "8e07afc6784a7cc9",
+        "parentUid" : "7431faf86e76b2588a85f4e610a2c574",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1720706338749,
+          "stop" : 1720706338749,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "@WEB Test Transaction Valid with 4 item",
+        "uid" : "a1a30d7802b8f5d0",
+        "parentUid" : "7431faf86e76b2588a85f4e610a2c574",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1720706338713,
+          "stop" : 1720706338714,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Testing Filter Using hilo",
+        "uid" : "2f7048d74f0fa52b",
+        "parentUid" : "7431faf86e76b2588a85f4e610a2c574",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1720706338731,
+          "stop" : 1720706338731,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Testing Password Empty",
+        "uid" : "f2abaa797849f397",
+        "parentUid" : "7431faf86e76b2588a85f4e610a2c574",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1720706338744,
+          "stop" : 1720706338745,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Testing Username Empty",
+        "uid" : "97cc4da445050374",
+        "parentUid" : "7431faf86e76b2588a85f4e610a2c574",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1720706338739,
+          "stop" : 1720706338740,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "@WEB Test Transaction Valid with 3 item",
+        "uid" : "327e0f6b0f9e12e0",
+        "parentUid" : "7431faf86e76b2588a85f4e610a2c574",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1720706338709,
+          "stop" : 1720706338709,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      } ],
+      "uid" : "7431faf86e76b2588a85f4e610a2c574"
+    }, {
+      "name" : "ADV-110819-NB-42148-playwright-worker-0",
+      "children" : [ {
+        "name" : "Testing Username & Password Empty",
+        "uid" : "14938450cd0e5fb4",
+        "parentUid" : "35f403364a5956597543201aa4ad0bd2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707829949,
+          "stop" : 1720707856962,
+          "duration" : 27013
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "webkit" ]
+      }, {
+        "name" : "Testing Password Empty",
+        "uid" : "75a95d85440e906c",
+        "parentUid" : "35f403364a5956597543201aa4ad0bd2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707792296,
+          "stop" : 1720707826615,
+          "duration" : 34319
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "@WEB Test Transaction Valid with 2 item",
+        "uid" : "ddbc23421db84f7",
+        "parentUid" : "35f403364a5956597543201aa4ad0bd2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707860188,
+          "stop" : 1720707868354,
+          "duration" : 8166
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Google Chrome" ]
+      }, {
+        "name" : "Testing Filter Using lohi",
+        "uid" : "de01cc25e4dbfd28",
+        "parentUid" : "35f403364a5956597543201aa4ad0bd2",
+        "status" : "broken",
+        "time" : {
+          "start" : 1720707749635,
+          "stop" : 1720707790678,
+          "duration" : 41043
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "@WEB Test Transaction Valid with 2 item",
+        "uid" : "9cedf2a5cf98db44",
+        "parentUid" : "35f403364a5956597543201aa4ad0bd2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707726026,
+          "stop" : 1720707747289,
+          "duration" : 21263
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Testing Block User",
+        "uid" : "2b9215c0333f405d",
+        "parentUid" : "35f403364a5956597543201aa4ad0bd2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707871396,
+          "stop" : 1720707874039,
+          "duration" : 2643
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Google Chrome" ]
+      }, {
+        "name" : "Testing Filter Using hilo",
+        "uid" : "c10188893c98bb42",
+        "parentUid" : "35f403364a5956597543201aa4ad0bd2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707868396,
+          "stop" : 1720707871359,
+          "duration" : 2963
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Google Chrome" ]
+      } ],
+      "uid" : "35f403364a5956597543201aa4ad0bd2"
+    }, {
+      "name" : "ADV-110819-NB-42148-playwright-worker-3",
+      "children" : [ {
+        "name" : "Testing Filter Using AZ",
+        "uid" : "fef0fd44ad121396",
+        "parentUid" : "e747094bdaaaa0d48e2b0617f4fb327b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707726106,
+          "stop" : 1720707745235,
+          "duration" : 19129
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Testing Username Empty",
+        "uid" : "21d65464ba090fbe",
+        "parentUid" : "e747094bdaaaa0d48e2b0617f4fb327b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707830595,
+          "stop" : 1720707838887,
+          "duration" : 8292
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "webkit" ]
+      }, {
+        "name" : "@WEB Test Transaction Valid with 3 item",
+        "uid" : "cc89304e5963fd13",
+        "parentUid" : "e747094bdaaaa0d48e2b0617f4fb327b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1720707748343,
+          "stop" : 1720707797077,
+          "duration" : 48734
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "Testing Filter Using lohi",
+        "uid" : "100dcf5cbf9a2a10",
+        "parentUid" : "e747094bdaaaa0d48e2b0617f4fb327b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707825540,
+          "stop" : 1720707830553,
+          "duration" : 5013
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "webkit" ]
+      }, {
+        "name" : "Testing Filter Using AZ",
+        "uid" : "9b8f1a5cd418e509",
+        "parentUid" : "e747094bdaaaa0d48e2b0617f4fb327b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707841027,
+          "stop" : 1720707853193,
+          "duration" : 12166
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Microsoft Edge" ]
+      }, {
+        "name" : "Testing Username & Password Empty",
+        "uid" : "3b40e4be7e3afd4",
+        "parentUid" : "e747094bdaaaa0d48e2b0617f4fb327b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707868927,
+          "stop" : 1720707872083,
+          "duration" : 3156
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Google Chrome" ]
+      }, {
+        "name" : "Testing Filter Using AZ",
+        "uid" : "4daf4a65ffa6cf95",
+        "parentUid" : "e747094bdaaaa0d48e2b0617f4fb327b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707861734,
+          "stop" : 1720707868874,
+          "duration" : 7140
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Google Chrome" ]
+      }, {
+        "name" : "Testing Username & Password Empty",
+        "uid" : "328457488f4a574f",
+        "parentUid" : "e747094bdaaaa0d48e2b0617f4fb327b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707853231,
+          "stop" : 1720707858629,
+          "duration" : 5398
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Microsoft Edge" ]
+      }, {
+        "name" : "Testing Filter Using AZ",
+        "uid" : "174989ed9e5c83c0",
+        "parentUid" : "e747094bdaaaa0d48e2b0617f4fb327b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707817356,
+          "stop" : 1720707825529,
+          "duration" : 8173
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "webkit" ]
+      }, {
+        "name" : "@WEB Test Transaction Valid with 2 item",
+        "uid" : "eb45f2485bd6f7bb",
+        "parentUid" : "e747094bdaaaa0d48e2b0617f4fb327b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707799004,
+          "stop" : 1720707817323,
+          "duration" : 18319
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "webkit" ]
+      } ],
+      "uid" : "e747094bdaaaa0d48e2b0617f4fb327b"
+    }, {
+      "name" : "ADV-110819-NB-91924-playwright-worker-4",
+      "children" : [ {
+        "name" : "@WEB Test Transaction Valid with 4 item",
+        "uid" : "d7d25c32e1c85b5",
+        "parentUid" : "eda33ccd5d6b99423270871442c4b002",
+        "status" : "broken",
+        "time" : {
+          "start" : 1720708047303,
+          "stop" : 1720708091830,
+          "duration" : 44527
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "Testing Filter Using lohi",
+        "uid" : "a1175085d806e45d",
+        "parentUid" : "eda33ccd5d6b99423270871442c4b002",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708128142,
+          "stop" : 1720708136446,
+          "duration" : 8304
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Microsoft Edge" ]
+      }, {
+        "name" : "Testing Username Empty",
+        "uid" : "d0626ba71e422e72",
+        "parentUid" : "eda33ccd5d6b99423270871442c4b002",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708147899,
+          "stop" : 1720708151068,
+          "duration" : 3169
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Google Chrome" ]
+      }, {
+        "name" : "Testing Filter Using AZ",
+        "uid" : "5eed67070e2a996",
+        "parentUid" : "eda33ccd5d6b99423270871442c4b002",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708140266,
+          "stop" : 1720708147858,
+          "duration" : 7592
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Google Chrome" ]
+      }, {
+        "name" : "@WEB Test Transaction Valid with 4 item",
+        "uid" : "ff7032da84ad65b8",
+        "parentUid" : "eda33ccd5d6b99423270871442c4b002",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708094175,
+          "stop" : 1720708118386,
+          "duration" : 24211
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "Testing Username & Password Empty",
+        "uid" : "abd346f6f208ac7b",
+        "parentUid" : "eda33ccd5d6b99423270871442c4b002",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708038859,
+          "stop" : 1720708044521,
+          "duration" : 5662
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Testing Filter Using ZA",
+        "uid" : "7b1a2e58d7a37b8d",
+        "parentUid" : "eda33ccd5d6b99423270871442c4b002",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708024605,
+          "stop" : 1720708038768,
+          "duration" : 14163
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      } ],
+      "uid" : "eda33ccd5d6b99423270871442c4b002"
+    }, {
+      "name" : "ADV-110819-NB-42148-playwright-worker-4",
+      "children" : [ {
+        "name" : "Testing Block User",
+        "uid" : "9b49d5260e6cbbd8",
+        "parentUid" : "c4bcc917f8b0f4c265a5fa5eab6f471b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707833071,
+          "stop" : 1720707839206,
+          "duration" : 6135
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "webkit" ]
+      }, {
+        "name" : "Testing Filter Using ZA",
+        "uid" : "8d898efd50df4283",
+        "parentUid" : "c4bcc917f8b0f4c265a5fa5eab6f471b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707821414,
+          "stop" : 1720707833049,
+          "duration" : 11635
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "webkit" ]
+      }, {
+        "name" : "Testing Filter Using AZ",
+        "uid" : "bcce695fd7ed5724",
+        "parentUid" : "c4bcc917f8b0f4c265a5fa5eab6f471b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707749136,
+          "stop" : 1720707785828,
+          "duration" : 36692
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "Testing Filter Using hilo",
+        "uid" : "98ab8cdc7f2cc180",
+        "parentUid" : "c4bcc917f8b0f4c265a5fa5eab6f471b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707852439,
+          "stop" : 1720707858498,
+          "duration" : 6059
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Microsoft Edge" ]
+      }, {
+        "name" : "Testing Filter Using ZA",
+        "uid" : "ced36452a4b66b29",
+        "parentUid" : "c4bcc917f8b0f4c265a5fa5eab6f471b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707726058,
+          "stop" : 1720707743665,
+          "duration" : 17607
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Testing Username & Password Empty",
+        "uid" : "92fb3b74a0dccf95",
+        "parentUid" : "c4bcc917f8b0f4c265a5fa5eab6f471b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1720707785857,
+          "stop" : 1720707817991,
+          "duration" : 32134
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "Testing Filter Using ZA",
+        "uid" : "f4a3869d7626b1b3",
+        "parentUid" : "c4bcc917f8b0f4c265a5fa5eab6f471b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707841602,
+          "stop" : 1720707852401,
+          "duration" : 10799
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Microsoft Edge" ]
+      }, {
+        "name" : "@WEB Test Transaction Valid with 4 item",
+        "uid" : "20bc84742e78fcde",
+        "parentUid" : "c4bcc917f8b0f4c265a5fa5eab6f471b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707861378,
+          "stop" : 1720707873220,
+          "duration" : 11842
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Google Chrome" ]
+      }, {
+        "name" : "Testing Password Empty",
+        "uid" : "e306aed905c48f5a",
+        "parentUid" : "c4bcc917f8b0f4c265a5fa5eab6f471b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707743704,
+          "stop" : 1720707746629,
+          "duration" : 2925
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      } ],
+      "uid" : "c4bcc917f8b0f4c265a5fa5eab6f471b"
+    }, {
+      "name" : "ADV-110819-NB-42148-playwright-worker-5",
+      "children" : [ {
+        "name" : "Testing Filter Using lohi",
+        "uid" : "94958a1a577dbd49",
+        "parentUid" : "8a3acc1f6dc08992b62c520955d6cc4b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707726130,
+          "stop" : 1720707739219,
+          "duration" : 13089
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "@WEB Test Transaction Valid with 4 item",
+        "uid" : "e89f0bc4e358642c",
+        "parentUid" : "8a3acc1f6dc08992b62c520955d6cc4b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707840550,
+          "stop" : 1720707867884,
+          "duration" : 27334
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Microsoft Edge" ]
+      }, {
+        "name" : "Testing Filter Using hilo",
+        "uid" : "b203a204d5c6c720",
+        "parentUid" : "8a3acc1f6dc08992b62c520955d6cc4b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707739246,
+          "stop" : 1720707745036,
+          "duration" : 5790
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Testing Username Empty",
+        "uid" : "1fcf394ac3158621",
+        "parentUid" : "8a3acc1f6dc08992b62c520955d6cc4b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707791123,
+          "stop" : 1720707825903,
+          "duration" : 34780
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "@WEB Test Transaction Valid with 2 item",
+        "uid" : "1ee2a47ba21c0678",
+        "parentUid" : "8a3acc1f6dc08992b62c520955d6cc4b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1720707748403,
+          "stop" : 1720707789750,
+          "duration" : 41347
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "Testing Filter Using hilo",
+        "uid" : "90893329070ba0a5",
+        "parentUid" : "8a3acc1f6dc08992b62c520955d6cc4b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707828922,
+          "stop" : 1720707838527,
+          "duration" : 9605
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "webkit" ]
+      }, {
+        "name" : "Testing Filter Using lohi",
+        "uid" : "9557d19bcaed6f91",
+        "parentUid" : "8a3acc1f6dc08992b62c520955d6cc4b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707874463,
+          "stop" : 1720707876770,
+          "duration" : 2307
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Google Chrome" ]
+      } ],
+      "uid" : "8a3acc1f6dc08992b62c520955d6cc4b"
+    }, {
+      "name" : "ADV-110819-NB-109716-playwright-worker-4",
+      "children" : [ {
+        "name" : "Testing Filter Using hilo",
+        "uid" : "92ee42ba5bc42d16",
+        "parentUid" : "76f248117fa489b6ba1829b07a01964e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720704927288,
+          "stop" : 1720704931679,
+          "duration" : 4391
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Testing Filter Using ZA",
+        "uid" : "4bcbadf952a4a550",
+        "parentUid" : "76f248117fa489b6ba1829b07a01964e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720704915947,
+          "stop" : 1720704927247,
+          "duration" : 11300
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Testing Password Empty",
+        "uid" : "efb596369dc8f2f4",
+        "parentUid" : "76f248117fa489b6ba1829b07a01964e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720704931734,
+          "stop" : 1720704935426,
+          "duration" : 3692
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      } ],
+      "uid" : "76f248117fa489b6ba1829b07a01964e"
+    }, {
+      "name" : "ADV-110819-NB-42148-playwright-worker-1",
+      "children" : [ {
+        "name" : "Testing Filter Using ZA",
+        "uid" : "786a6b65291cf1f1",
+        "parentUid" : "e05525f10899597e08e11d992ffbf73c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707862382,
+          "stop" : 1720707870421,
+          "duration" : 8039
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Google Chrome" ]
+      }, {
+        "name" : "Testing Password Empty",
+        "uid" : "1d6cac05ab0ec1d4",
+        "parentUid" : "e05525f10899597e08e11d992ffbf73c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707870513,
+          "stop" : 1720707873523,
+          "duration" : 3010
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Google Chrome" ]
+      }, {
+        "name" : "@WEB Test Transaction Valid with 3 item",
+        "uid" : "272023fd65c58a71",
+        "parentUid" : "e05525f10899597e08e11d992ffbf73c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707725918,
+          "stop" : 1720707743246,
+          "duration" : 17328
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "@WEB Test Transaction Valid with 2 item",
+        "uid" : "bb2bcf9c09818129",
+        "parentUid" : "e05525f10899597e08e11d992ffbf73c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707835276,
+          "stop" : 1720707842314,
+          "duration" : 7038
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Microsoft Edge" ]
+      }, {
+        "name" : "Testing Filter Using lohi",
+        "uid" : "bd72007c54ed4fbc",
+        "parentUid" : "e05525f10899597e08e11d992ffbf73c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707842339,
+          "stop" : 1720707853744,
+          "duration" : 11405
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Microsoft Edge" ]
+      }, {
+        "name" : "@WEB Test Transaction Valid with 3 item",
+        "uid" : "21101af623fb16a3",
+        "parentUid" : "e05525f10899597e08e11d992ffbf73c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707816397,
+          "stop" : 1720707834249,
+          "duration" : 17852
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "webkit" ]
+      }, {
+        "name" : "Testing Block User",
+        "uid" : "57c27dffe20cb26b",
+        "parentUid" : "e05525f10899597e08e11d992ffbf73c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707856789,
+          "stop" : 1720707859754,
+          "duration" : 2965
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Microsoft Edge" ]
+      }, {
+        "name" : "Testing Block User",
+        "uid" : "660cd9a83836777e",
+        "parentUid" : "e05525f10899597e08e11d992ffbf73c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707798480,
+          "stop" : 1720707813873,
+          "duration" : 15393
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "Testing Username Empty",
+        "uid" : "10ab1fd08189ec4d",
+        "parentUid" : "e05525f10899597e08e11d992ffbf73c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707743291,
+          "stop" : 1720707746477,
+          "duration" : 3186
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Testing Password Empty",
+        "uid" : "afa8ca7860bfc03c",
+        "parentUid" : "e05525f10899597e08e11d992ffbf73c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707853774,
+          "stop" : 1720707856778,
+          "duration" : 3004
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Microsoft Edge" ]
+      }, {
+        "name" : "@WEB Test Transaction Valid with 4 item",
+        "uid" : "65d273845e5eef9e",
+        "parentUid" : "e05525f10899597e08e11d992ffbf73c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1720707749081,
+          "stop" : 1720707796712,
+          "duration" : 47631
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "firefox" ]
+      } ],
+      "uid" : "e05525f10899597e08e11d992ffbf73c"
+    }, {
+      "name" : "ADV-110819-NB-129368-playwright-worker-0",
+      "children" : [ {
+        "name" : "Testing Username & Password Empty",
+        "uid" : "55eb32ee9c91cc40",
+        "parentUid" : "8e7106b63c0762af53cbb72a28463bd8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707390035,
+          "stop" : 1720707402911,
+          "duration" : 12876
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      } ],
+      "uid" : "8e7106b63c0762af53cbb72a28463bd8"
+    }, {
+      "name" : "ADV-110819-NB-91924-playwright-worker-0",
+      "children" : [ {
+        "name" : "@WEB Test Transaction Valid with 2 item",
+        "uid" : "880d185feb8ec251",
+        "parentUid" : "ff2100e21f79bda7d884cfc8da064689",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708024625,
+          "stop" : 1720708043977,
+          "duration" : 19352
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Testing Filter Using hilo",
+        "uid" : "18ade60354c68009",
+        "parentUid" : "ff2100e21f79bda7d884cfc8da064689",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708147418,
+          "stop" : 1720708150827,
+          "duration" : 3409
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Google Chrome" ]
+      }, {
+        "name" : "Testing Filter Using ZA",
+        "uid" : "b7ed1e9cb6619bbc",
+        "parentUid" : "ff2100e21f79bda7d884cfc8da064689",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708140314,
+          "stop" : 1720708147402,
+          "duration" : 7088
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Google Chrome" ]
+      }, {
+        "name" : "Testing Username & Password Empty",
+        "uid" : "ef42606ef91fcf4e",
+        "parentUid" : "ff2100e21f79bda7d884cfc8da064689",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708109473,
+          "stop" : 1720708114253,
+          "duration" : 4780
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "webkit" ]
+      }, {
+        "name" : "Testing Filter Using ZA",
+        "uid" : "46558d6d96d8d39c",
+        "parentUid" : "ff2100e21f79bda7d884cfc8da064689",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708096501,
+          "stop" : 1720708109447,
+          "duration" : 12946
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "webkit" ]
+      }, {
+        "name" : "@WEB Test Transaction Valid with 4 item",
+        "uid" : "cc61316f8bdccc65",
+        "parentUid" : "ff2100e21f79bda7d884cfc8da064689",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708116492,
+          "stop" : 1720708131743,
+          "duration" : 15251
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Microsoft Edge" ]
+      }, {
+        "name" : "Testing Block User",
+        "uid" : "1da89039f6604466",
+        "parentUid" : "ff2100e21f79bda7d884cfc8da064689",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708131773,
+          "stop" : 1720708137543,
+          "duration" : 5770
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Microsoft Edge" ]
+      }, {
+        "name" : "@WEB Test Transaction Valid with 2 item",
+        "uid" : "be2602f3ca1a29f5",
+        "parentUid" : "ff2100e21f79bda7d884cfc8da064689",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708046960,
+          "stop" : 1720708087757,
+          "duration" : 40797
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "firefox" ]
+      } ],
+      "uid" : "ff2100e21f79bda7d884cfc8da064689"
+    }, {
+      "name" : "ADV-110819-NB-109716-playwright-worker-3",
+      "children" : [ {
+        "name" : "Testing Filter Using AZ",
+        "uid" : "297b6ff360653561",
+        "parentUid" : "e83b8dfbd0375e2e5d45567f8e4c1e50",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720704915933,
+          "stop" : 1720704929408,
+          "duration" : 13475
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Testing Username & Password Empty",
+        "uid" : "32c087ef531a70ea",
+        "parentUid" : "e83b8dfbd0375e2e5d45567f8e4c1e50",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720704929453,
+          "stop" : 1720704933547,
+          "duration" : 4094
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      } ],
+      "uid" : "e83b8dfbd0375e2e5d45567f8e4c1e50"
+    }, {
+      "name" : "ADV-110819-NB-129368-playwright-worker-1",
+      "children" : [ {
+        "name" : "Testing Username Empty",
+        "uid" : "6d1fab06720bba77",
+        "parentUid" : "38587db2aa1eecf997a77b9167464e46",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707390132,
+          "stop" : 1720707402393,
+          "duration" : 12261
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      } ],
+      "uid" : "38587db2aa1eecf997a77b9167464e46"
+    }, {
+      "name" : "ADV-110819-NB-129368-playwright-worker-3",
+      "children" : [ {
+        "name" : "Testing Block User",
+        "uid" : "430bc1a5dcf6291c",
+        "parentUid" : "1b92f9ec16d8cb2e326262ac55b8cf5a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707390139,
+          "stop" : 1720707402696,
+          "duration" : 12557
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      } ],
+      "uid" : "1b92f9ec16d8cb2e326262ac55b8cf5a"
+    }, {
+      "name" : "ADV-110819-NB-109716-playwright-worker-1",
+      "children" : [ {
+        "name" : "Testing Username Empty",
+        "uid" : "651796f0a2feb2dd",
+        "parentUid" : "d61ea0bbf27ce80a30e693fa53ca5660",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720704931574,
+          "stop" : 1720704934853,
+          "duration" : 3279
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "@WEB Test Transaction Valid with 3 item",
+        "uid" : "a16030c74fdf682",
+        "parentUid" : "d61ea0bbf27ce80a30e693fa53ca5660",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720704915968,
+          "stop" : 1720704931535,
+          "duration" : 15567
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      } ],
+      "uid" : "d61ea0bbf27ce80a30e693fa53ca5660"
+    }, {
+      "name" : "ADV-110819-NB-109716-playwright-worker-2",
+      "children" : [ {
+        "name" : "@WEB Test Transaction Valid with 4 item",
+        "uid" : "54c4a7b6ae068c2c",
+        "parentUid" : "2f09cb7b4e987d79ce239157ac9e9424",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720704915842,
+          "stop" : 1720704931990,
+          "duration" : 16148
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Testing Block User",
+        "uid" : "cec40b1df2712339",
+        "parentUid" : "2f09cb7b4e987d79ce239157ac9e9424",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720704932022,
+          "stop" : 1720704934398,
+          "duration" : 2376
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      } ],
+      "uid" : "2f09cb7b4e987d79ce239157ac9e9424"
+    }, {
+      "name" : "ADV-110819-NB-91924-playwright-worker-1",
+      "children" : [ {
+        "name" : "Testing Block User",
+        "uid" : "e7ddef0b5e3b4fca",
+        "parentUid" : "a774b731c49eba269783cfa5b42568c9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708149922,
+          "stop" : 1720708156452,
+          "duration" : 6530
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Google Chrome" ]
+      }, {
+        "name" : "@WEB Test Transaction Valid with 3 item",
+        "uid" : "79404f644238ef95",
+        "parentUid" : "a774b731c49eba269783cfa5b42568c9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708024563,
+          "stop" : 1720708044116,
+          "duration" : 19553
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "@WEB Test Transaction Valid with 2 item",
+        "uid" : "6bd7a7b6f063b1d8",
+        "parentUid" : "a774b731c49eba269783cfa5b42568c9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708115270,
+          "stop" : 1720708123445,
+          "duration" : 8175
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Microsoft Edge" ]
+      }, {
+        "name" : "Testing Filter Using hilo",
+        "uid" : "dfe4c0701bad6a56",
+        "parentUid" : "a774b731c49eba269783cfa5b42568c9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708106619,
+          "stop" : 1720708113108,
+          "duration" : 6489
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "webkit" ]
+      }, {
+        "name" : "@WEB Test Transaction Valid with 3 item",
+        "uid" : "eebed1fad0368319",
+        "parentUid" : "a774b731c49eba269783cfa5b42568c9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708046984,
+          "stop" : 1720708084376,
+          "duration" : 37392
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "Testing Filter Using AZ",
+        "uid" : "2a1edd185d39d28f",
+        "parentUid" : "a774b731c49eba269783cfa5b42568c9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708093448,
+          "stop" : 1720708106608,
+          "duration" : 13160
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "webkit" ]
+      }, {
+        "name" : "Testing Filter Using hilo",
+        "uid" : "a82c3fa8ab4721df",
+        "parentUid" : "a774b731c49eba269783cfa5b42568c9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708123523,
+          "stop" : 1720708132400,
+          "duration" : 8877
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Microsoft Edge" ]
+      }, {
+        "name" : "@WEB Test Transaction Valid with 2 item",
+        "uid" : "5d4b25cbe6d75771",
+        "parentUid" : "a774b731c49eba269783cfa5b42568c9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720708140000,
+          "stop" : 1720708149880,
+          "duration" : 9880
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Google Chrome" ]
+      } ],
+      "uid" : "a774b731c49eba269783cfa5b42568c9"
+    }, {
+      "name" : "ADV-110819-NB-109716-playwright-worker-0",
+      "children" : [ {
+        "name" : "@WEB Test Transaction Valid with 2 item",
+        "uid" : "1b8ed86325e95d5f",
+        "parentUid" : "3aab8f867416fb66fcf32ae92759e5c5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720704915931,
+          "stop" : 1720704932451,
+          "duration" : 16520
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      } ],
+      "uid" : "3aab8f867416fb66fcf32ae92759e5c5"
+    }, {
+      "name" : "ADV-110819-NB-109716-playwright-worker-5",
+      "children" : [ {
+        "name" : "Testing Filter Using lohi",
+        "uid" : "6b9dd5c37cb451e3",
+        "parentUid" : "f3ca399a8d582fa49e174f0704609764",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720704915975,
+          "stop" : 1720704937281,
+          "duration" : 21306
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      } ],
+      "uid" : "f3ca399a8d582fa49e174f0704609764"
+    }, {
+      "name" : "ADV-110819-NB-129368-playwright-worker-2",
+      "children" : [ {
+        "name" : "Testing Password Empty",
+        "uid" : "460a7ed0791af827",
+        "parentUid" : "821eb0d01eebf6379671fe4cfd8d4e06",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720707390013,
+          "stop" : 1720707402594,
+          "duration" : 12581
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      } ],
+      "uid" : "821eb0d01eebf6379671fe4cfd8d4e06"
+    } ],
+    "uid" : "37c216cf7f0d9ef7dfcc09427d18a4e1"
+  } ]
+}
