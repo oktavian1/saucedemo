@@ -40,5 +40,19 @@
             "postCode": "14240"
         },
         "messageSuccess": "Thank you for your order!"
+    },
+    {
+        "title": "Transaction Valid with 6 item",
+        "login": {
+            "username": "standard_user",
+            "password": "secret_sauce"
+        },
+        "products": ["Sauce Labs Onesie", "Sauce Labs Bike Light", "Sauce Labs Bolt T-Shirt", "Sauce Labs Backpack","Sauce Labs Fleece Jacket", "Test.allTheThings() T-Shirt (Red)" ],
+        "detailData": {
+            "firstName": "Ilham",
+            "lastName": "Oktavian",
+            "postCode": "14240"
+        },
+        "messageSuccess": "Thank you for your order!"
     }
 ]
