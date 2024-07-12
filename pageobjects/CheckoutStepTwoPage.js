@@ -33,14 +33,6 @@ class CheckoutStepTwoPage {
     return (itemTotal + taxTotal).toFixed(2);
   }
 
-  //   async verifyTotalAndTax(){
-  //     const itemTotal = await this._sumPriceItem()
-  //     const totalTax = await this._calculateTax()
-  //     const total = await this._calculateTotal()
-  //     expect(await this.locatorItemTotal.textContent()).toContain(itemTotal.toString())
-  //     expect(await this.locatorTax.textContent()).toContain( totalTax.toFixed(2).toString())
-  //     expect(await this.locatorTotal.textContent()).toContain( total.toString())
-  //   }
 
   async verifyTotalAndTax() {
     const locatorPrice = await this.locatorPrice.allTextContents()
