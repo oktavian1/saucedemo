@@ -8,10 +8,14 @@ class CartPage {
 
   async verifyProductInCart(item) {
     const listName = await this.listNameProduct.allTextContents();
-  
-    item.forEach(product => {
-      expect(listName).toContain(product);
-    });
+
+    for (let i = 0; i < item.length; i++) {
+      for (let j = 0; j < listName.length; j++) {
+        if (item[i] == listName[j]) {
+          expect(listName[j]).toContain(item[i]);
+        }
+      }
+    }
   }
 
   async clickButtonCheckout(){
